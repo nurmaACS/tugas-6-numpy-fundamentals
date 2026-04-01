@@ -1,0 +1,1 @@
+# tugas-6-numpy-fundamentals
